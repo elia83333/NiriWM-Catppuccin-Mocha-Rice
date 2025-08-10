@@ -31,9 +31,9 @@ Application Launcher: Fuzzel
 
 
 # Keybinds:
-
+```
 MOD+T : Open a Terminal: Kitty
-MOD+D : Run an Application Launcher (FUZZEL)
+MOD+D : Run an Application: fuzzel
 SUPER+ALT+L : Lock the Screen: swaylock
 MOD+Q : Close window
 MOD+LEFT : Focus column left
@@ -95,3 +95,4 @@ MOD+SHIFT+S : Screenshot
 MOD+SHIFT+E : Quit
 CTRL+ALT+DELETE : Quit
 MOD+L : Power off monitors
+```
