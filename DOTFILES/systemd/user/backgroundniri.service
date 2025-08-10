@@ -1,0 +1,12 @@
+[Unit]
+Description=Startup Background for Niri
+After=graphical.target
+
+[Service]
+ExecStart=~/startupbg.sh
+Restart=on-failure
+EnvironmentFile=-%E/environment
+
+[Install]
+WantedBy=default.target
+
