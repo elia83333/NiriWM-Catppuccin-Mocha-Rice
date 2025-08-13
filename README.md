@@ -6,7 +6,7 @@
 ![2](https://github.com/elia83333/NiriWM-Catppuccin-Mocha-Rice/blob/main/ASSETS/2.png)
 ![3](https://github.com/elia83333/NiriWM-Catppuccin-Mocha-Rice/blob/main/ASSETS/3.png)
 ![4](https://github.com/elia83333/NiriWM-Catppuccin-Mocha-Rice/blob/main/ASSETS/4.png)
-
+(the focus ring is greyis/white now because that dark one looked bad)
 # Specifications
 
 Terminal Emulator: Kitty  
