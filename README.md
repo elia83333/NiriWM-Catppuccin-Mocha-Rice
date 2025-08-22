@@ -96,3 +96,12 @@ MOD+SHIFT+E : Quit
 CTRL+ALT+DELETE : Quit
 MOD+L : Power off monitors
 ```
+
+
+### Installation
+```bash
+sudo pacman -S waybar fuzzel mako swaylock kitty 
+sudo pacman -S ttf-jetbrains-mono-nerd
+yay -S ttf-ibm-plex-variable
+
+```
